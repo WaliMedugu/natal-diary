@@ -4,6 +4,8 @@
 
 Live demo: https://walimedugu.github.io/natal-diary/ (works on any phone browser, and offline after the first visit)
 
+Demo video: [media/Natal_Diary_Demo.mp4](media/Natal_Diary_Demo.mp4) · Pitch deck: [media/Natal_Diary_Pitch_Deck.pdf](media/Natal_Diary_Pitch_Deck.pdf)
+
 ![Natal Diary screens](shots/red.png)
 
 ## The problem

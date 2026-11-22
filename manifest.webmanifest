@@ -1,0 +1,9 @@
+{
+  "name": "Natal Diary",
+  "short_name": "Natal Diary",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf6",
+  "theme_color": "#4a1f3d",
+  "description": "Offline-first antenatal and newborn care diary for mothers in Nigeria."
+}

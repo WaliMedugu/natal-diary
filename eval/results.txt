@@ -1,0 +1,19 @@
+NATAL DIARY EVALUATION
+
+Triage (40 labelled vignettes)
+  Exact-level accuracy:         40/40 = 100.0%
+  RED sensitivity (emergencies): 19/19 = 100.0%
+  Urgent (amber+red) flagged:    32/32 = 100.0%
+  GREEN specificity:             8/8 = 100.0%
+  Confusion matrix (rows = expected, cols = predicted):
+           green amber   red
+    green      8     0     0
+    amber      0    13     0
+    red        0     0    19
+
+Assistant retrieval (30 paraphrased questions)
+  Top-1 accuracy: 28/30 = 93.3%
+  Top-3 accuracy: 29/30 = 96.7%
+  Top-1 misses:
+   - "I'm seeing blood, should I worry" -> anaemia (want bleeding)
+   - "what injections will my newborn get" -> newborn-danger (want baby-vaccines)

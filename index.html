@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Natal Diary</title>
+<meta name="description" content="Natal Diary: an offline-first antenatal and newborn care diary for mothers in Nigeria.">
+<meta name="theme-color" content="#4a1f3d">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+<div class="stage">
+  <aside class="about">
+    <div class="logo">nd</div>
+    <h1>Natal Diary</h1>
+    <p>An offline-first antenatal and newborn care diary for mothers in Nigeria. It tracks reminders, vitals and danger signs, and offers verified answers.</p>
+    <ul>
+      <li>WHO 8-contact antenatal schedule, built from the due date</li>
+      <li>Danger-sign triage on every log (red / amber / green)</li>
+      <li>Verified Q&amp;A assistant with cited sources</li>
+      <li>One record a mother can show any clinic</li>
+      <li>Baby mode with Nigeria's immunisation schedule</li>
+    </ul>
+    <p class="small">Prototype by Team Natal Diary, Nile University of Nigeria, Abuja. All data stays on this device. This is education, not a diagnosis.</p>
+    <button class="ghost" id="resetBtn">Reset demo data</button>
+  </aside>
+  <main class="phone" id="phone">
+    <div class="screen" id="screen"></div>
+    <nav class="tabs" id="tabs">
+      <a href="#home" data-tab="home"><span>🏠</span>Home</a>
+      <a href="#log" data-tab="log"><span>➕</span>Log</a>
+      <a href="#ask" data-tab="ask"><span>💬</span>Ask</a>
+      <a href="#record" data-tab="record"><span>🗂️</span>Record</a>
+      <a href="#baby" data-tab="baby"><span>👶</span>Baby</a>
+    </nav>
+  </main>
+</div>
+<script src="src/triage.js"></script>
+<script src="src/kb.js"></script>
+<script src="src/app.js"></script>
+</body>
+</html>

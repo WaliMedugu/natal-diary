@@ -82,6 +82,10 @@ There is no build step and there are no dependencies.
 3. Clinic dashboard.
 4. Pilot in 2 Abuja clinics, measuring on-time antenatal visit completion.
 
+## AI assistance
+
+This project was AI-assisted: an AI coding assistant (Claude) was used on the prototype code, the evaluation harness and test cases, the pitch deck, the demo video (which uses a computer-generated voice) and the documentation. The app itself does not call a generative model.
+
 ## Team
 
 Team Natal Diary, Software Engineering, Nile University of Nigeria, Abuja: Joan Azike, Wali Medugu, Adekola, Mutma, Divine, Amarachi, Elsa, Mark, Muna, Afoma, Daze.

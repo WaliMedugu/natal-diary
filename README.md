@@ -54,7 +54,7 @@ Run it with `node eval/evaluate.js` ([full output](eval/results.txt)).
 | Assistant top-3 | same 30 questions | 29/30 (96.7%) |
 
 **Limitations, stated honestly:**
-- The vignettes were written with an AI assistant (Claude), which also wrote the code, from the same guidelines the rules encode. They check that the rules are implemented correctly; they are **not clinical validation**.
+- The vignettes were written with AI assistance from the same guidelines the rules encode. They check that the rules are implemented correctly; they are **not clinical validation**.
 - The assistant's synonym map was improved after looking at errors on the same 30 questions, so 93% is optimistic. A held-out set from real mothers' questions is next.
 - One remaining miss ("I'm seeing blood…") is caught by the emergency safety layer, so the mother still gets "go to hospital now" first.
 - The library must be reviewed by a licensed midwife before any pilot.

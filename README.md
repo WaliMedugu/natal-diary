@@ -88,6 +88,10 @@ This project was AI-assisted: an AI coding assistant (Claude) was used on the pr
 
 ## Team
 
-Team Natal Diary, Software Engineering, Nile University of Nigeria, Abuja: Joan Azike, Wali Medugu, Adekola, Mutma, Divine, Amarachi, Elsa, Mark, Muna, Afoma, Daze.
+**Team SEN322 Natal Diary**
+
+Entry team: Medugu Wali, Joan Azike, Adekola and Mutma. Medugu Wali submits and represents the team.
+
+Class group, Software Engineering, Nile University of Nigeria, Abuja: Joan Azike, Wali Medugu, Adekola, Mutma, Divine, Amarachi, Elsa, Mark, Muna, Afoma, Daze.
 
 *This prototype is for education. It is not a medical device and does not give a diagnosis.*
